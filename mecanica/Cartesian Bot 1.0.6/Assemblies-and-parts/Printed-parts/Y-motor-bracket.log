@@ -1,0 +1,86 @@
+System Name        : Windows_NT
+Machine Name       : ENPC-DMM45
+User Name          : en0es
+Source System      : GENERIC
+Destination System : STEP
+Start Time         : Tue Dec 02 12:43:08 2008
+
+--------------------------------------------------------------------------------
+Message : === Translation Options ===
+Message : PropagateColDownwards : true
+Message : TranslateAttributes : false
+Message : TranslateSheetBodies : true
+Message : TranslateSolidAsSolid : true
+Message : Step.Brep.TranslateSolidAsClassIV : false
+Message : Step.Brep.TranslateSolidAsClassIISurface : false
+Message : Step.Brep.TranslateSolidAsClassIIWires : false
+Message : Step.Brep.WriteSolidClass3 : false
+Message : Step.Brep.ConvTrimToClassIVFaces : true
+Message : Step.Brep.ConvTrimToClassIIFaces : false
+Message : Step.Brep.ConvTrimToClassIIIWires : false
+Message : Step.Brep.ConvTrimToClassIIWires : false
+Message : Step.Brep.TranslateWireAsClassIIIWires : false
+Message : Step.Brep.TranslateWireAsClassIIWires : true
+Message : Unit : 5
+Message : Step.Brep.TranslateAsAp214Format : false
+Message : Step.Brep.WriteAssemAsCtxtDepShapeRep : false
+Message : ClassVIAsTrimStitch : false
+Message : Step.Brep.ProductDefBasedRead : true
+Message : SewFaces : true
+Message : Step.Brep.TranslateClassIVFaces : true
+Message : Step.Brep.TranslateClassIIFaces : true
+Message : Step.Brep.TranslateClassIIIWires : true
+Message : Step.Brep.ReadProduct1stField : true
+Message : Step.Brep.TranslateClassVFacetedSolid : true
+Message : Step.Brep.TranslateClassVISolid : true
+Message : Step.Brep.TranslateClassIIWires : true
+Message : TranslateProductIdAttributes : false
+Message : SetStringentCheckOption : true
+Message : RollbackSewOnError : true
+Message : Step.Brep.InterpretAngleAsDegree : true
+Message : Step.Brep.OverrideFaceColorWithBodyColor : false
+Message : FixFaceFaceInconsistency : true
+Message : TranslateFreePoints : true
+Message : TranslateLayersAndFilters : false
+Message : Step.AuthorName : Ed Sells
+Message : Step.OrganizationName : University of Bath
+Message : Step.Authorization :   
+Message : Step.ProgramName : Solid Edge v19
+Message : Step.DateTimeStamp : Unknown
+Message : Step.ObjectId :   
+Message : Step.FileDescription : Unknown
+Message : Step.ImplementationLevel : 1
+Message : Step.SchemaName : CONFIG_CONTROL_DESIGN
+Message : Step.PreProcessorVersion : XStep 1.0
+Message : Step.Brep.WriteLengthUnit : 0
+Message : NameAttribTransf : true
+Message : Representation : BRep+OldAssembly
+Message : ===========================
+--------------------------------------------------------------------------------
+Start BRep
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+End BRep
+Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Start Assembly
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+End Assembly
+Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-------------------------------Conversion Summary-------------------------------
+No. of Assemblies                         :    0
+No. of Solid Bodies                       :    1
+No. of Trim Bodies                        :    0
+No. of Wire Bodies                        :    0
+No. of Point Bodies                       :    0
+No. of Geometric Sets   :   0
+No. of Curve     Sets   :   0
+--------------------------------------------------------------------------------
+Finish Time : Tue Dec 02 12:43:08 2008
+
+Translation Result : Success
+--------------------------------------------------------------------------------

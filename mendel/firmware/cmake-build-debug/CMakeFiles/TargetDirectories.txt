@@ -1,0 +1,3 @@
+/home/alan/code/Mendel/mendel/firmware/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/alan/code/Mendel/mendel/firmware/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/alan/code/Mendel/mendel/firmware/cmake-build-debug/CMakeFiles/firmware.dir

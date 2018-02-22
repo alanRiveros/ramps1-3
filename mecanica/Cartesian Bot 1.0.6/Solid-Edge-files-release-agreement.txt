@@ -1,0 +1,73 @@
+Contact:     ED SELLS                                               
+Address 1:   FACULTY OF ENGINEERING AND DESIGN            
+Address 2:   DEPARTMENT OF MECHANICAL ENGINEERIN          
+Address 3:                                                
+City:        BATH                     
+St/ZIP/Ctry:     BA2 7AY     UNITED KINGDOM           
+Phone#:      +4401225 384 254          Ext:       
+Modem #:                               Fax #:                 
+
+Alt Contact:                                                        
+Phone#:                                Ext:       
+
+Platform: INTEL                        OS: WINDOW
+OS Rev: XP32_SP2
+
+Family: SOLID_EDGE                     Application: SETUP          
+Function: LICENSING                    Subfunction: ACADEMIC       
+Release: V19.0                         Support Group: S_EDGE         
+Associated PR #:                       Customer Ref #:           
+Other Ref #:                           Ext. Ref #:         
+End User Server:                                                               
+
+Opened Date: 28-NOV-2008 12:54:37      ICBed Date: 28-NOV-2008 13:01:37     
+Urgency: General                       Closed Date: 01-DEC-2008 11:18:45     
+Status: Closed                         Status Code(s): TQ      
+Suspended From:                        Suspended To:            
+Inactive Reason:                       Source: IR      
+
+Short Desc:
+ed sells - bath univ. - ok to hand off solid edge data to 3rd parties?...      
+
+Email Notification: 
+en0es@bath.ac.uk                                                               
+
+                                     TEXT
+
+---------------------------------Customer Text---------------------------------
+
+
+   ***  Date & Time: 28-nov-2008 11:54:38  User id: dwhitehe  ***
+ 
+
+university of bath
+
+ed sells
+01225 384 254
+en0es@bath.ac.uk
+
+
+***
+
+solid edge v19
+academic license
+
+***
+
+caller is working on an open source project involves designing a machine all work done using solid edge v19 academic
+
+open source project is non profit making has people contributing all around the world everyone is working for free doing the work in their spare time
+
+to progress the design they want to distribute the solid edge data to other contributors to work on, who would then return the data at a later time
+
+***
+
+is there any issue with sending the data to 3rd parties and have them develop the designs further? (obviously the 3rd parties would also need to be using solid edge v19 academic in order to access the data)
+
+or would this violate the usage agreement they have signed up to?...
+
+   ***  Date & Time: 01-dec-2008 11:14:07  User id: parrott  ***
+ 
+If all you are sending, is your data produced in Solid Edge, then this is fine. All we say is the academic application/license should not be used for commercial purposes and should not be distributed.
+
+================================ END of IR Info ===============================
